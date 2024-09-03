@@ -2,6 +2,8 @@
 
 Este proyecto se enfoca en la predicción de velocidad del transporte público en Santiago, Chile, utilizando modelos espacio-temporales avanzados de aprendizaje automático.
 
+## El codigo se puede ejecutar desde el siguiente [Notebook](https://colab.research.google.com/drive/1es7DdhiBm5KzO2FIfY1Hobm2J5dzRhYn?usp=sharing)
+
 ## Objetivo
 
 El objetivo principal es comparar y contrastar el desempeño predictivo de dos modelos de Machine Learning: Temporal Graph Convolutional Network (T-GCN) y Spatio-Temporal Graph Convolutional Network (STGCN), utilizando datos locales de la Avenida Alameda Libertador Bernardo O'Higgins en Santiago para predecir la velocidad del tráfico a corto plazo.
